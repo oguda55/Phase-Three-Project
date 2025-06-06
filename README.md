@@ -22,6 +22,9 @@ SyriaTel lacks a predictive mechanism to identify which customers are likely to 
 Build a classification model that can predict whether a customer is likely to churn, based on their behavioral and account-related data.
 
 ####  **Objective**
+- To determine distribution of the churn 
+- To establish correlation matrix for numerical features
+- To determine relationship of churn in relation to important features
 - To predict whether a customer will "soon" stop doing business with SyriaTel telecommunications company.  
 - To find a way to prevent customer churn.
 - To find a way of reducing revenue loss incase of customer churn.
